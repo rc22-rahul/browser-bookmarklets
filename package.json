@@ -1,0 +1,41 @@
+{
+  "name": "browser-bookmarklets",
+  "version": "1.0.0",
+  "description": "A collection of useful browser bookmarklets for developers, designers, and power users",
+  "main": "README.md",
+  "scripts": {
+    "serve": "python3 -m http.server 8000",
+    "serve-python2": "python -m SimpleHTTPServer 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rc22-rahul/browser-bookmarklets.git"
+  },
+  "keywords": [
+    "bookmarklets",
+    "javascript",
+    "browser",
+    "utilities",
+    "web-development",
+    "productivity",
+    "tools",
+    "developer-tools",
+    "dom-inspector",
+    "performance-analyzer",
+    "color-picker",
+    "form-filler",
+    "cookie-manager"
+  ],
+  "author": "Rahul Chaudhary <rc22.rahul@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rc22-rahul/browser-bookmarklets/issues"
+  },
+  "homepage": "https://github.com/rc22-rahul/browser-bookmarklets#readme",
+  "files": [
+    "bookmarklets/",
+    "docs/",
+    "README.md",
+    "LICENSE"
+  ]
+}
